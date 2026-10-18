@@ -1,0 +1,17 @@
+sample	fastq1	data_dir
+LC36HJ_15_WT1CKOFemale	LC36HJ_15_WT1CKOFemale_R80.fastq.gz	raw_data
+LC36HJ_10_ControlFemale	LC36HJ_10_ControlFemale_R6.fastq.gz	raw_data
+LC36HJ_12_ControlFemale	LC36HJ_12_ControlFemale_R88.fastq.gz	raw_data
+LC36HJ_16_WT1CKOFemale	LC36HJ_16_WT1CKOFemale_R101.fastq.gz	raw_data
+LC36HJ_4_ControlMale	LC36HJ_4_ControlMale_R58.fastq.gz	raw_data
+LC36HJ_11_ControlFemale	LC36HJ_11_ControlFemale_R77.fastq.gz	raw_data
+LC36HJ_5_WT1CKOMale	LC36HJ_5_WT1CKOMale_R23.fastq.gz	raw_data
+LC36HJ_2_ControlMale	LC36HJ_2_ControlMale_R24.fastq.gz	raw_data
+LC36HJ_6_WT1CKOMale	LC36HJ_6_WT1CKOMale_R72.fastq.gz	raw_data
+LC36HJ_7_WT1CKOMale	LC36HJ_7_WT1CKOMale_R99.fastq.gz	raw_data
+LC36HJ_14_WT1CKOFemale	LC36HJ_14_WT1CKOFemale_R16.fastq.gz	raw_data
+LC36HJ_1_ControlMale	LC36HJ_1_ControlMale_R8.fastq.gz	raw_data
+LC36HJ_3_ControlMale	LC36HJ_3_ControlMale_R44.fastq.gz	raw_data
+LC36HJ_9_ControlFemale	LC36HJ_9_ControlFemale_R2.fastq.gz	raw_data
+LC36HJ_13_WT1CKOFemale	LC36HJ_13_WT1CKOFemale_R5.fastq.gz	raw_data
+LC36HJ_8_WT1CKOMale	LC36HJ_8_WT1CKOMale_R111.fastq.gz	raw_data

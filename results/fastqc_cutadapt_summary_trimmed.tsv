@@ -1,0 +1,176 @@
+PASS	Basic Statistics	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_15_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_10_ControlFemale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_12_ControlFemale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_16_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_4_ControlMale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_11_ControlFemale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_5_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_2_ControlMale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_6_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_7_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_14_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_1_ControlMale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_3_ControlMale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_9_ControlFemale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_13_WT1CKOFemale_R1_trimmed.fastq.gz
+PASS	Basic Statistics	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per base sequence quality	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Per tile sequence quality	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per sequence quality scores	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Per base sequence content	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per sequence GC content	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Per base N content	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+WARN	Sequence Length Distribution	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+FAIL	Sequence Duplication Levels	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+WARN	Overrepresented sequences	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz
+PASS	Adapter Content	LC36HJ_8_WT1CKOMale_R1_trimmed.fastq.gz

@@ -1,0 +1,17 @@
+sample_name,group,genotype,sex,batch
+LC36HJ_15_WT1CKOFemale,group2,CKO,Female,5
+LC36HJ_10_ControlFemale,group1,Control,Female,1
+LC36HJ_12_ControlFemale,group1,Control,Female,6
+LC36HJ_16_WT1CKOFemale,group2,CKO,Female,7
+LC36HJ_4_ControlMale,group3,Control,Male,4
+LC36HJ_11_ControlFemale,group1,Control,Female,5
+LC36HJ_5_WT1CKOMale,group4,CKO,Male,2
+LC36HJ_2_ControlMale,group3,Control,Male,2
+LC36HJ_6_WT1CKOMale,group4,CKO,Male,5
+LC36HJ_7_WT1CKOMale,group4,CKO,Male,7
+LC36HJ_14_WT1CKOFemale,group2,CKO,Female,1
+LC36HJ_1_ControlMale,group3,Control,Male,1
+LC36HJ_3_ControlMale,group3,Control,Male,3
+LC36HJ_9_ControlFemale,group1,Control,Female,1
+LC36HJ_13_WT1CKOFemale,group2,CKO,Female,1
+LC36HJ_8_WT1CKOMale,group4,CKO,Male,8
